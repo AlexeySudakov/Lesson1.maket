@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Maket1">Макет1</string>
+    <string name="Phoness">Введите номер телефона</string>
+    <string name="Phonesis">Phoness</string>
+    <string name="Button_add_on">Вкл.доп.кнопок</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="togglebutton1">Для ToggleButton</string>
+    <string name="toggle_button">"Для Toggle Button  "</string>
+</resources>
