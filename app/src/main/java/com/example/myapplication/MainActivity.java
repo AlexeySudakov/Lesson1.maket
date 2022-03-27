@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.checkbox2:
                 if (checked)
-                    Toast.makeText( this, "Вы выбрали Рок", Toast.LENGTH_LONG ).show();
+                    Toast.makeText( this, "Вы выбрали Рок - н- Ролл!", Toast.LENGTH_LONG ).show();
                 break;
             case R.id.checkbox3:
                 if (checked)
